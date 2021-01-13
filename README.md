@@ -1,6 +1,12 @@
 # NAS Backup
 
-Backup script to backup NAS to Google Drive. Uses [python-rclone](https://github.com/ddragosd/python-rclone) for the heavy lifting.
+Backup script to backup NAS to Google Drive. Uses for the heavy lifting.
+
+Additional Resources
+
+* [python-rclone](https://github.com/ddragosd/python-rclone): Python library for issuing rclone commands
+* [rclone Google Drive](https://rclone.org/drive/)
+* [rclone remote setup](https://rclone.org/remote_setup/): Setup for remote machines and Google Drive
 
 ## Create Python venv
 
